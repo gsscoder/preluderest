@@ -1,0 +1,5 @@
+source https://api.nuget.org/v3/index.json
+
+nuget Microsoft.AspNetCore.Mvc.Core 2.2.5
+nuget Microsoft.Extensions.Logging.Abstractions 3.1.0
+nuget CSharpx 2.8.0-preview.2
