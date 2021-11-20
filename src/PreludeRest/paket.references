@@ -1,2 +1,4 @@
 Microsoft.AspNetCore.Mvc.Core
 Microsoft.Extensions.Logging.Abstractions
+Newtonsoft.Json
+SharpX
