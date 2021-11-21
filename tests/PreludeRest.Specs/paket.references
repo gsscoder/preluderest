@@ -1,0 +1,7 @@
+﻿group specs	
+    Microsoft.NET.Test.Sdk
+    coverlet.collector
+    xunit
+    xunit.runner.visualstudio
+    FluentAssertions
+    Microsoft.AspNetCore.Mvc.Core
